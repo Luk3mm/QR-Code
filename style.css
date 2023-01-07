@@ -39,13 +39,3 @@ body{
     margin: 0 0 20px 0;
     color: #9da2ae;
 }
-
-@media screen and (max-width: 375px){
-    .container{
-        height: 60vh;
-    }
-
-    .container img{
-        margin: 10px 0 0 0;
-    }
-}
